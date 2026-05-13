@@ -1,0 +1,15 @@
+# Windows 系统文件
+Thumbs.db
+Desktop.ini
+*.tmp
+
+# 编辑器缓存
+.vscode/
+.idea/
+
+# 临时/压缩文件
+*.log
+*.zip
+*.rar
+
+Claude.dmg
